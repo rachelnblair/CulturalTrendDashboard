@@ -1,7 +1,19 @@
-p {
-  /* update the font */
+* {
+  font-family: Montserrat;
+  font-size: 29px;
 }
 
 h1 {
-  /* update font & color */
+  font-weight: bold;
+  font-size: 53px;
+}
+
+h2 {
+  font-style: italic;
+  text-decoration: underline;
+  font-size: 40px;
+}
+
+.artist {
+  font-style: italic;
 }
